@@ -1,3 +1,3 @@
-password:123456
+password:****
 2 edition
-password:123456
+password:****
